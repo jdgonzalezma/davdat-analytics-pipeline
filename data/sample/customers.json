@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 10000,
+    "email": "fuentesxiomara@example.net",
+    "first_name": "Lucía",
+    "last_name": "López",
+    "orders_count": 1,
+    "total_spent": "552625.46",
+    "created_at": "2025-04-04T14:44:55+00:00",
+    "updated_at": "2025-04-04T14:44:55+00:00"
+  },
+  {
+    "id": 20000,
+    "email": "mariomaldonado@example.com",
+    "first_name": "Carolina",
+    "last_name": "Vargas",
+    "orders_count": 1,
+    "total_spent": "638869.55",
+    "created_at": "2025-11-09T14:44:55+00:00",
+    "updated_at": "2025-11-09T14:44:55+00:00"
+  },
+  {
+    "id": 30000,
+    "email": "pcorrea@example.net",
+    "first_name": "Gustavo",
+    "last_name": "Sánchez",
+    "orders_count": 1,
+    "total_spent": "1158657.2",
+    "created_at": "2025-08-18T14:44:55+00:00",
+    "updated_at": "2025-08-18T14:44:55+00:00"
+  },
+  {
+    "id": 40000,
+    "email": "pintonorberto@example.net",
+    "first_name": "Liliana",
+    "last_name": "Castro",
+    "orders_count": 2,
+    "total_spent": "1230493.6",
+    "created_at": "2025-11-13T14:44:55+00:00",
+    "updated_at": "2025-11-13T14:44:55+00:00"
+  },
+  {
+    "id": 50000,
+    "email": "ochoamartha@example.org",
+    "first_name": "Wilder",
+    "last_name": "Morales",
+    "orders_count": 1,
+    "total_spent": "119954.69",
+    "created_at": "2025-08-18T14:44:55+00:00",
+    "updated_at": "2025-08-18T14:44:55+00:00"
+  },
+  {
+    "id": 60000,
+    "email": "andresmonsalve@example.com",
+    "first_name": "Raúl",
+    "last_name": "Velandia",
+    "orders_count": 2,
+    "total_spent": "526776.75",
+    "created_at": "2026-03-16T14:44:55+00:00",
+    "updated_at": "2026-03-16T14:44:55+00:00"
+  },
+  {
+    "id": 70000,
+    "email": "helenaguerrero@example.net",
+    "first_name": "Luz",
+    "last_name": "Acosta",
+    "orders_count": 1,
+    "total_spent": "94983.67",
+    "created_at": "2025-08-15T14:44:55+00:00",
+    "updated_at": "2025-08-15T14:44:55+00:00"
+  },
+  {
+    "id": 80000,
+    "email": "andres29@example.org",
+    "first_name": "Diego",
+    "last_name": "Nieto",
+    "orders_count": 3,
+    "total_spent": "1552474.41",
+    "created_at": "2025-11-21T14:44:55+00:00",
+    "updated_at": "2025-11-21T14:44:55+00:00"
+  },
+  {
+    "id": 90000,
+    "email": "vasquezenrique@example.net",
+    "first_name": "Andrea",
+    "last_name": "Bernal",
+    "orders_count": 1,
+    "total_spent": "516362.59",
+    "created_at": "2025-10-20T14:44:55+00:00",
+    "updated_at": "2025-10-20T14:44:55+00:00"
+  },
+  {
+    "id": 100000,
+    "email": "omar89@example.net",
+    "first_name": "Stella",
+    "last_name": "Vanegas",
+    "orders_count": 1,
+    "total_spent": "425318.48",
+    "created_at": "2025-06-05T14:44:55+00:00",
+    "updated_at": "2025-06-05T14:44:55+00:00"
+  },
+  {
+    "id": 110000,
+    "email": "acastro@example.org",
+    "first_name": "David",
+    "last_name": "Herrera",
+    "orders_count": 1,
+    "total_spent": "1648053.08",
+    "created_at": "2025-09-02T14:44:55+00:00",
+    "updated_at": "2025-09-02T14:44:55+00:00"
+  },
+  {
+    "id": 120000,
+    "email": "hsanchez@example.net",
+    "first_name": "Leonor",
+    "last_name": "Aguirre",
+    "orders_count": 1,
+    "total_spent": "1058579.74",
+    "created_at": "2025-04-10T14:44:55+00:00",
+    "updated_at": "2025-04-10T14:44:55+00:00"
+  },
+  {
+    "id": 130000,
+    "email": "moracamila@example.com",
+    "first_name": "Eduard",
+    "last_name": "Rojas",
+    "orders_count": 1,
+    "total_spent": "91327.11",
+    "created_at": "2026-04-11T14:44:55+00:00",
+    "updated_at": "2026-04-11T14:44:55+00:00"
+  },
+  {
+    "id": 140000,
+    "email": "carlosrojas@example.net",
+    "first_name": "Patricia",
+    "last_name": "Ortiz",
+    "orders_count": 3,
+    "total_spent": "1681354.55",
+    "created_at": "2025-04-10T14:44:55+00:00",
+    "updated_at": "2025-04-10T14:44:55+00:00"
+  },
+  {
+    "id": 150000,
+    "email": "ycortes@example.org",
+    "first_name": "Rubiela",
+    "last_name": "Franco",
+    "orders_count": 2,
+    "total_spent": "584475.71",
+    "created_at": "2025-04-27T14:44:55+00:00",
+    "updated_at": "2025-04-27T14:44:55+00:00"
+  },
+  {
+    "id": 160000,
+    "email": "gallegocortes@example.org",
+    "first_name": "David",
+    "last_name": "Ávila",
+    "orders_count": 3,
+    "total_spent": "1738002.49",
+    "created_at": "2025-10-13T14:44:55+00:00",
+    "updated_at": "2025-10-13T14:44:55+00:00"
+  },
+  {
+    "id": 170000,
+    "email": "edwin12@example.net",
+    "first_name": "José",
+    "last_name": "Rodríguez",
+    "orders_count": 1,
+    "total_spent": "260063.51",
+    "created_at": "2026-04-22T14:44:55+00:00",
+    "updated_at": "2026-04-22T14:44:55+00:00"
+  },
+  {
+    "id": 180000,
+    "email": "acostavictoria@example.com",
+    "first_name": "Paula",
+    "last_name": "Pineda",
+    "orders_count": 1,
+    "total_spent": "1009894.48",
+    "created_at": "2025-02-02T14:44:55+00:00",
+    "updated_at": "2025-02-02T14:44:55+00:00"
+  },
+  {
+    "id": 190000,
+    "email": "taniagarcia@example.net",
+    "first_name": "Marina",
+    "last_name": "Ortiz",
+    "orders_count": 1,
+    "total_spent": "72479.64",
+    "created_at": "2025-09-05T14:44:55+00:00",
+    "updated_at": "2025-09-05T14:44:55+00:00"
+  },
+  {
+    "id": 200000,
+    "email": "contrerasalexander@example.org",
+    "first_name": "Andrés",
+    "last_name": "Rico",
+    "orders_count": 1,
+    "total_spent": "690410.1",
+    "created_at": "2025-08-08T14:44:55+00:00",
+    "updated_at": "2025-08-08T14:44:55+00:00"
+  },
+  {
+    "id": 210000,
+    "email": "rosa88@example.com",
+    "first_name": "Edgar",
+    "last_name": "Ramírez",
+    "orders_count": 1,
+    "total_spent": "130376.23",
+    "created_at": "2025-03-01T14:44:55+00:00",
+    "updated_at": "2025-03-01T14:44:55+00:00"
+  },
+  {
+    "id": 220000,
+    "email": "karen85@example.org",
+    "first_name": "Amparo",
+    "last_name": "Cruz",
+    "orders_count": 1,
+    "total_spent": "532068.65",
+    "created_at": "2026-02-22T14:44:55+00:00",
+    "updated_at": "2026-02-22T14:44:55+00:00"
+  },
+  {
+    "id": 230000,
+    "email": "ramirezcarlos@example.net",
+    "first_name": "Concepción",
+    "last_name": "Ochoa",
+    "orders_count": 3,
+    "total_spent": "1417763.89",
+    "created_at": "2025-10-13T14:44:55+00:00",
+    "updated_at": "2025-10-13T14:44:55+00:00"
+  },
+  {
+    "id": 240000,
+    "email": "jenny96@example.org",
+    "first_name": "Patricia",
+    "last_name": "Guerra",
+    "orders_count": 2,
+    "total_spent": "2164694.41",
+    "created_at": "2025-04-17T14:44:55+00:00",
+    "updated_at": "2025-04-17T14:44:55+00:00"
+  },
+  {
+    "id": 250000,
+    "email": "medinacristina@example.net",
+    "first_name": "María",
+    "last_name": "Gómez",
+    "orders_count": 1,
+    "total_spent": "1032350.11",
+    "created_at": "2025-09-08T14:44:55+00:00",
+    "updated_at": "2025-09-08T14:44:55+00:00"
+  },
+  {
+    "id": 260000,
+    "email": "martinezrocio@example.net",
+    "first_name": "Hugo",
+    "last_name": "Delgado",
+    "orders_count": 3,
+    "total_spent": "2273719.05",
+    "created_at": "2025-05-09T14:44:55+00:00",
+    "updated_at": "2025-05-09T14:44:55+00:00"
+  },
+  {
+    "id": 270000,
+    "email": "cesarvargas@example.net",
+    "first_name": "Beatriz",
+    "last_name": "Correa",
+    "orders_count": 1,
+    "total_spent": "652714.9",
+    "created_at": "2026-01-20T14:44:55+00:00",
+    "updated_at": "2026-01-20T14:44:55+00:00"
+  },
+  {
+    "id": 280000,
+    "email": "hcamacho@example.org",
+    "first_name": "Gustavo",
+    "last_name": "Fuentes",
+    "orders_count": 3,
+    "total_spent": "1570460.78",
+    "created_at": "2025-09-16T14:44:55+00:00",
+    "updated_at": "2025-09-16T14:44:55+00:00"
+  },
+  {
+    "id": 290000,
+    "email": "bastidasgilma@example.org",
+    "first_name": "Marcela",
+    "last_name": "García",
+    "orders_count": 1,
+    "total_spent": "1044481.88",
+    "created_at": "2025-06-09T14:44:55+00:00",
+    "updated_at": "2025-06-09T14:44:55+00:00"
+  },
+  {
+    "id": 300000,
+    "email": "mauricio07@example.org",
+    "first_name": "Jesús",
+    "last_name": "Benavides",
+    "orders_count": 1,
+    "total_spent": "965360.08",
+    "created_at": "2025-04-08T14:44:55+00:00",
+    "updated_at": "2025-04-08T14:44:55+00:00"
+  },
+  {
+    "id": 310000,
+    "email": "hvelez@example.org",
+    "first_name": "Orlando",
+    "last_name": "Suárez",
+    "orders_count": 1,
+    "total_spent": "1144389.98",
+    "created_at": "2025-12-15T14:44:55+00:00",
+    "updated_at": "2025-12-15T14:44:55+00:00"
+  },
+  {
+    "id": 320000,
+    "email": "yortiz@example.com",
+    "first_name": "Miguel",
+    "last_name": "Arias",
+    "orders_count": 1,
+    "total_spent": "90870.2",
+    "created_at": "2025-06-09T14:44:55+00:00",
+    "updated_at": "2025-06-09T14:44:55+00:00"
+  },
+  {
+    "id": 330000,
+    "email": "nbarreto@example.com",
+    "first_name": "Fabio",
+    "last_name": "Paz",
+    "orders_count": 1,
+    "total_spent": "1106351.87",
+    "created_at": "2025-07-23T14:44:55+00:00",
+    "updated_at": "2025-07-23T14:44:55+00:00"
+  },
+  {
+    "id": 340000,
+    "email": "miguelpalacio@example.com",
+    "first_name": "Ximena",
+    "last_name": "Molina",
+    "orders_count": 1,
+    "total_spent": "104649.72",
+    "created_at": "2025-12-12T14:44:55+00:00",
+    "updated_at": "2025-12-12T14:44:55+00:00"
+  },
+  {
+    "id": 350000,
+    "email": "javier69@example.com",
+    "first_name": "Carlos",
+    "last_name": "López",
+    "orders_count": 1,
+    "total_spent": "1476583.9",
+    "created_at": "2025-07-14T14:44:55+00:00",
+    "updated_at": "2025-07-14T14:44:55+00:00"
+  },
+  {
+    "id": 360000,
+    "email": "cristian22@example.org",
+    "first_name": "Patricia",
+    "last_name": "Pérez",
+    "orders_count": 1,
+    "total_spent": "282033.51",
+    "created_at": "2026-06-28T14:44:55+00:00",
+    "updated_at": "2026-06-28T14:44:55+00:00"
+  },
+  {
+    "id": 370000,
+    "email": "ypinzon@example.net",
+    "first_name": "Antonio",
+    "last_name": "Suárez",
+    "orders_count": 1,
+    "total_spent": "206924.45",
+    "created_at": "2025-07-04T14:44:55+00:00",
+    "updated_at": "2025-07-04T14:44:55+00:00"
+  },
+  {
+    "id": 380000,
+    "email": "martinezadiela@example.com",
+    "first_name": "Milena",
+    "last_name": "Restrepo",
+    "orders_count": 2,
+    "total_spent": "726924.04",
+    "created_at": "2025-09-03T14:44:55+00:00",
+    "updated_at": "2025-09-03T14:44:55+00:00"
+  },
+  {
+    "id": 390000,
+    "email": "marlene13@example.com",
+    "first_name": "Harold",
+    "last_name": "Barrios",
+    "orders_count": 1,
+    "total_spent": "959748.23",
+    "created_at": "2025-12-17T14:44:55+00:00",
+    "updated_at": "2025-12-17T14:44:55+00:00"
+  },
+  {
+    "id": 400000,
+    "email": "morenomiguel@example.org",
+    "first_name": "Alexandra",
+    "last_name": "Villegas",
+    "orders_count": 2,
+    "total_spent": "1889685.89",
+    "created_at": "2026-01-08T14:44:55+00:00",
+    "updated_at": "2026-01-08T14:44:55+00:00"
+  },
+  {
+    "id": 410000,
+    "email": "sanchezmaria@example.org",
+    "first_name": "Catalina",
+    "last_name": "Martínez",
+    "orders_count": 1,
+    "total_spent": "1364483.98",
+    "created_at": "2025-10-08T14:44:55+00:00",
+    "updated_at": "2025-10-08T14:44:55+00:00"
+  },
+  {
+    "id": 420000,
+    "email": "angel03@example.org",
+    "first_name": "Eduardo",
+    "last_name": "Bedoya",
+    "orders_count": 3,
+    "total_spent": "1246485.08",
+    "created_at": "2025-05-02T14:44:55+00:00",
+    "updated_at": "2025-05-02T14:44:55+00:00"
+  },
+  {
+    "id": 430000,
+    "email": "vmejia@example.com",
+    "first_name": "Magaly",
+    "last_name": "Velásquez",
+    "orders_count": 1,
+    "total_spent": "565425.1",
+    "created_at": "2025-11-08T14:44:55+00:00",
+    "updated_at": "2025-11-08T14:44:55+00:00"
+  },
+  {
+    "id": 440000,
+    "email": "alexander31@example.com",
+    "first_name": "Diana",
+    "last_name": "Zapata",
+    "orders_count": 1,
+    "total_spent": "1197792.17",
+    "created_at": "2025-05-10T14:44:55+00:00",
+    "updated_at": "2025-05-10T14:44:55+00:00"
+  },
+  {
+    "id": 450000,
+    "email": "ospinocarlos@example.net",
+    "first_name": "Luz",
+    "last_name": "Rosero",
+    "orders_count": 2,
+    "total_spent": "924311.96",
+    "created_at": "2025-07-14T14:44:55+00:00",
+    "updated_at": "2025-07-14T14:44:55+00:00"
+  },
+  {
+    "id": 460000,
+    "email": "ibautista@example.net",
+    "first_name": "Diego",
+    "last_name": "Castro",
+    "orders_count": 1,
+    "total_spent": "622404.29",
+    "created_at": "2025-05-19T14:44:55+00:00",
+    "updated_at": "2025-05-19T14:44:55+00:00"
+  },
+  {
+    "id": 470000,
+    "email": "alexander25@example.net",
+    "first_name": "Milena",
+    "last_name": "Ávila",
+    "orders_count": 2,
+    "total_spent": "1391913.59",
+    "created_at": "2026-06-29T14:44:55+00:00",
+    "updated_at": "2026-06-29T14:44:55+00:00"
+  },
+  {
+    "id": 480000,
+    "email": "hugoromero@example.net",
+    "first_name": "Isabel",
+    "last_name": "López",
+    "orders_count": 1,
+    "total_spent": "782895.62",
+    "created_at": "2026-03-09T14:44:55+00:00",
+    "updated_at": "2026-03-09T14:44:55+00:00"
+  },
+  {
+    "id": 490000,
+    "email": "andres61@example.com",
+    "first_name": "Leonardo",
+    "last_name": "Beltrán",
+    "orders_count": 1,
+    "total_spent": "657473.01",
+    "created_at": "2025-02-04T14:44:55+00:00",
+    "updated_at": "2025-02-04T14:44:55+00:00"
+  },
+  {
+    "id": 500000,
+    "email": "kdelgado@example.net",
+    "first_name": "Alfonso",
+    "last_name": "Arias",
+    "orders_count": 1,
+    "total_spent": "293449.39",
+    "created_at": "2025-12-07T14:44:55+00:00",
+    "updated_at": "2025-12-07T14:44:55+00:00"
+  },
+  {
+    "id": 510000,
+    "email": "manuelpineda@example.com",
+    "first_name": "Paulo",
+    "last_name": "Castro",
+    "orders_count": 1,
+    "total_spent": "650876.89",
+    "created_at": "2026-07-01T14:44:55+00:00",
+    "updated_at": "2026-07-01T14:44:55+00:00"
+  },
+  {
+    "id": 520000,
+    "email": "obustamante@example.org",
+    "first_name": "Gabriel",
+    "last_name": "Romero",
+    "orders_count": 1,
+    "total_spent": "1349088.28",
+    "created_at": "2025-01-14T14:44:55+00:00",
+    "updated_at": "2025-01-14T14:44:55+00:00"
+  },
+  {
+    "id": 530000,
+    "email": "sebastian47@example.com",
+    "first_name": "Rosa",
+    "last_name": "Rincón",
+    "orders_count": 1,
+    "total_spent": "971597.52",
+    "created_at": "2025-08-19T14:44:55+00:00",
+    "updated_at": "2025-08-19T14:44:55+00:00"
+  },
+  {
+    "id": 540000,
+    "email": "hernandezfabian@example.org",
+    "first_name": "Arturo",
+    "last_name": "Barrera",
+    "orders_count": 2,
+    "total_spent": "305362.74",
+    "created_at": "2026-01-12T14:44:55+00:00",
+    "updated_at": "2026-01-12T14:44:55+00:00"
+  },
+  {
+    "id": 550000,
+    "email": "diazelena@example.com",
+    "first_name": "Camilo",
+    "last_name": "Peña",
+    "orders_count": 1,
+    "total_spent": "287817.03",
+    "created_at": "2025-01-25T14:44:55+00:00",
+    "updated_at": "2025-01-25T14:44:55+00:00"
+  },
+  {
+    "id": 560000,
+    "email": "rubioshirley@example.org",
+    "first_name": "Ana",
+    "last_name": "Agudelo",
+    "orders_count": 1,
+    "total_spent": "213500.57",
+    "created_at": "2025-04-04T14:44:55+00:00",
+    "updated_at": "2025-04-04T14:44:55+00:00"
+  },
+  {
+    "id": 570000,
+    "email": "cristhian54@example.org",
+    "first_name": "Liliana",
+    "last_name": "Rodríguez",
+    "orders_count": 2,
+    "total_spent": "1653758.9",
+    "created_at": "2025-12-04T14:44:55+00:00",
+    "updated_at": "2025-12-04T14:44:55+00:00"
+  },
+  {
+    "id": 580000,
+    "email": "aguirrerosa@example.org",
+    "first_name": "Margarita",
+    "last_name": "Duarte",
+    "orders_count": 2,
+    "total_spent": "770149.82",
+    "created_at": "2025-10-05T14:44:55+00:00",
+    "updated_at": "2025-10-05T14:44:55+00:00"
+  },
+  {
+    "id": 590000,
+    "email": "alexislopez@example.com",
+    "first_name": "Alberto",
+    "last_name": "Gómez",
+    "orders_count": 2,
+    "total_spent": "866572.13",
+    "created_at": "2025-05-02T14:44:55+00:00",
+    "updated_at": "2025-05-02T14:44:55+00:00"
+  },
+  {
+    "id": 600000,
+    "email": "stellahernandez@example.com",
+    "first_name": "Ibeth",
+    "last_name": "Ruiz",
+    "orders_count": 2,
+    "total_spent": "1294051.36",
+    "created_at": "2025-03-10T14:44:55+00:00",
+    "updated_at": "2025-03-10T14:44:55+00:00"
+  },
+  {
+    "id": 610000,
+    "email": "ecamargo@example.org",
+    "first_name": "Javier",
+    "last_name": "Arias",
+    "orders_count": 1,
+    "total_spent": "749392.62",
+    "created_at": "2025-09-11T14:44:55+00:00",
+    "updated_at": "2025-09-11T14:44:55+00:00"
+  },
+  {
+    "id": 620000,
+    "email": "liliana19@example.net",
+    "first_name": "Elena",
+    "last_name": "Tovar",
+    "orders_count": 1,
+    "total_spent": "865259.27",
+    "created_at": "2025-12-09T14:44:55+00:00",
+    "updated_at": "2025-12-09T14:44:55+00:00"
+  },
+  {
+    "id": 630000,
+    "email": "lucia82@example.com",
+    "first_name": "Laura",
+    "last_name": "Álvarez",
+    "orders_count": 1,
+    "total_spent": "472710.87",
+    "created_at": "2026-06-11T14:44:55+00:00",
+    "updated_at": "2026-06-11T14:44:55+00:00"
+  },
+  {
+    "id": 640000,
+    "email": "brendon@example.com",
+    "first_name": "Alexander",
+    "last_name": "Díaz",
+    "orders_count": 1,
+    "total_spent": "228245.46",
+    "created_at": "2026-03-17T14:44:55+00:00",
+    "updated_at": "2026-03-17T14:44:55+00:00"
+  },
+  {
+    "id": 650000,
+    "email": "pamaya@example.net",
+    "first_name": "Lorena",
+    "last_name": "Ramírez",
+    "orders_count": 1,
+    "total_spent": "691186.73",
+    "created_at": "2025-08-22T14:44:55+00:00",
+    "updated_at": "2025-08-22T14:44:55+00:00"
+  },
+  {
+    "id": 660000,
+    "email": "lsanchez@example.com",
+    "first_name": "Claudia",
+    "last_name": "Mejía",
+    "orders_count": 2,
+    "total_spent": "1963179.26",
+    "created_at": "2026-04-16T14:44:55+00:00",
+    "updated_at": "2026-04-16T14:44:55+00:00"
+  },
+  {
+    "id": 670000,
+    "email": "pinedageraldine@example.net",
+    "first_name": "Paola",
+    "last_name": "García",
+    "orders_count": 1,
+    "total_spent": "1382055.33",
+    "created_at": "2026-05-31T14:44:55+00:00",
+    "updated_at": "2026-05-31T14:44:55+00:00"
+  },
+  {
+    "id": 680000,
+    "email": "sotohector@example.org",
+    "first_name": "Alicia",
+    "last_name": "Peña",
+    "orders_count": 2,
+    "total_spent": "1608937.76",
+    "created_at": "2026-05-04T14:44:55+00:00",
+    "updated_at": "2026-05-04T14:44:55+00:00"
+  },
+  {
+    "id": 690000,
+    "email": "trendon@example.org",
+    "first_name": "Gloria",
+    "last_name": "Hurtado",
+    "orders_count": 1,
+    "total_spent": "599379.69",
+    "created_at": "2025-05-02T14:44:55+00:00",
+    "updated_at": "2025-05-02T14:44:55+00:00"
+  },
+  {
+    "id": 700000,
+    "email": "lopezdavid@example.com",
+    "first_name": "Natalia",
+    "last_name": "Prieto",
+    "orders_count": 1,
+    "total_spent": "1062426.26",
+    "created_at": "2025-08-30T14:44:55+00:00",
+    "updated_at": "2025-08-30T14:44:55+00:00"
+  },
+  {
+    "id": 710000,
+    "email": "manuelgarcia@example.net",
+    "first_name": "Martha",
+    "last_name": "Serrano",
+    "orders_count": 2,
+    "total_spent": "452048.82",
+    "created_at": "2025-06-19T14:44:55+00:00",
+    "updated_at": "2025-06-19T14:44:55+00:00"
+  },
+  {
+    "id": 720000,
+    "email": "juantrujillo@example.org",
+    "first_name": "Paula",
+    "last_name": "Sánchez",
+    "orders_count": 2,
+    "total_spent": "2069275.86",
+    "created_at": "2025-09-03T14:44:55+00:00",
+    "updated_at": "2025-09-03T14:44:55+00:00"
+  },
+  {
+    "id": 730000,
+    "email": "felipehernandez@example.org",
+    "first_name": "Santiago",
+    "last_name": "Rodríguez",
+    "orders_count": 1,
+    "total_spent": "106165.31",
+    "created_at": "2025-12-16T14:44:55+00:00",
+    "updated_at": "2025-12-16T14:44:55+00:00"
+  },
+  {
+    "id": 740000,
+    "email": "aguirredidier@example.org",
+    "first_name": "Andrey",
+    "last_name": "Ospina",
+    "orders_count": 1,
+    "total_spent": "1258944.63",
+    "created_at": "2026-03-22T14:44:55+00:00",
+    "updated_at": "2026-03-22T14:44:55+00:00"
+  },
+  {
+    "id": 750000,
+    "email": "blancoestefania@example.org",
+    "first_name": "Ricardo",
+    "last_name": "García",
+    "orders_count": 1,
+    "total_spent": "363050.84",
+    "created_at": "2025-05-24T14:44:55+00:00",
+    "updated_at": "2025-05-24T14:44:55+00:00"
+  },
+  {
+    "id": 760000,
+    "email": "pnavarro@example.org",
+    "first_name": "Yesid",
+    "last_name": "Restrepo",
+    "orders_count": 1,
+    "total_spent": "1208865.54",
+    "created_at": "2025-05-20T14:44:55+00:00",
+    "updated_at": "2025-05-20T14:44:55+00:00"
+  },
+  {
+    "id": 770000,
+    "email": "vallejocarlos@example.com",
+    "first_name": "Libia",
+    "last_name": "Sánchez",
+    "orders_count": 2,
+    "total_spent": "2919550.99",
+    "created_at": "2026-01-07T14:44:55+00:00",
+    "updated_at": "2026-01-07T14:44:55+00:00"
+  },
+  {
+    "id": 780000,
+    "email": "wdiaz@example.com",
+    "first_name": "Humberto",
+    "last_name": "Soto",
+    "orders_count": 1,
+    "total_spent": "782975.81",
+    "created_at": "2025-10-04T14:44:55+00:00",
+    "updated_at": "2025-10-04T14:44:55+00:00"
+  },
+  {
+    "id": 790000,
+    "email": "bgamboa@example.com",
+    "first_name": "Jhon",
+    "last_name": "Méndez",
+    "orders_count": 1,
+    "total_spent": "1297280.51",
+    "created_at": "2025-03-18T14:44:55+00:00",
+    "updated_at": "2025-03-18T14:44:55+00:00"
+  },
+  {
+    "id": 800000,
+    "email": "beatrizrodriguez@example.org",
+    "first_name": "Juan",
+    "last_name": "Ospino",
+    "orders_count": 2,
+    "total_spent": "1048500.93",
+    "created_at": "2025-07-31T14:44:55+00:00",
+    "updated_at": "2025-07-31T14:44:55+00:00"
+  },
+  {
+    "id": 810000,
+    "email": "felixbuitrago@example.net",
+    "first_name": "Andrés",
+    "last_name": "Cortés",
+    "orders_count": 1,
+    "total_spent": "301427.65",
+    "created_at": "2026-02-21T14:44:55+00:00",
+    "updated_at": "2026-02-21T14:44:55+00:00"
+  },
+  {
+    "id": 820000,
+    "email": "yuly67@example.net",
+    "first_name": "Judith",
+    "last_name": "Castrillón",
+    "orders_count": 1,
+    "total_spent": "767028.77",
+    "created_at": "2026-02-19T14:44:55+00:00",
+    "updated_at": "2026-02-19T14:44:55+00:00"
+  },
+  {
+    "id": 830000,
+    "email": "castrillonsocorro@example.org",
+    "first_name": "María",
+    "last_name": "Bolívar",
+    "orders_count": 3,
+    "total_spent": "1148754.02",
+    "created_at": "2025-04-01T14:44:55+00:00",
+    "updated_at": "2025-04-01T14:44:55+00:00"
+  },
+  {
+    "id": 840000,
+    "email": "alba77@example.com",
+    "first_name": "Ana",
+    "last_name": "Mora",
+    "orders_count": 1,
+    "total_spent": "126806.48",
+    "created_at": "2025-05-30T14:44:55+00:00",
+    "updated_at": "2025-05-30T14:44:55+00:00"
+  },
+  {
+    "id": 850000,
+    "email": "marcelapena@example.org",
+    "first_name": "Juliana",
+    "last_name": "Ayala",
+    "orders_count": 1,
+    "total_spent": "426046.85",
+    "created_at": "2025-04-30T14:44:55+00:00",
+    "updated_at": "2025-04-30T14:44:55+00:00"
+  },
+  {
+    "id": 860000,
+    "email": "albertovargas@example.net",
+    "first_name": "Leidy",
+    "last_name": "Mendoza",
+    "orders_count": 1,
+    "total_spent": "2035928.6",
+    "created_at": "2025-12-31T14:44:55+00:00",
+    "updated_at": "2025-12-31T14:44:55+00:00"
+  },
+  {
+    "id": 870000,
+    "email": "vargasdayana@example.net",
+    "first_name": "Consuelo",
+    "last_name": "Restrepo",
+    "orders_count": 2,
+    "total_spent": "1522611.71",
+    "created_at": "2025-06-29T14:44:55+00:00",
+    "updated_at": "2025-06-29T14:44:55+00:00"
+  },
+  {
+    "id": 880000,
+    "email": "dcarvajal@example.com",
+    "first_name": "Edna",
+    "last_name": "Arias",
+    "orders_count": 1,
+    "total_spent": "391599.39",
+    "created_at": "2025-10-19T14:44:55+00:00",
+    "updated_at": "2025-10-19T14:44:55+00:00"
+  },
+  {
+    "id": 890000,
+    "email": "cleal@example.org",
+    "first_name": "Jairo",
+    "last_name": "Campo",
+    "orders_count": 2,
+    "total_spent": "2253401.68",
+    "created_at": "2025-12-02T14:44:55+00:00",
+    "updated_at": "2025-12-02T14:44:55+00:00"
+  },
+  {
+    "id": 900000,
+    "email": "knavarro@example.net",
+    "first_name": "Mónica",
+    "last_name": "Becerra",
+    "orders_count": 3,
+    "total_spent": "2417035.56",
+    "created_at": "2025-09-25T14:44:55+00:00",
+    "updated_at": "2025-09-25T14:44:55+00:00"
+  },
+  {
+    "id": 910000,
+    "email": "elvia52@example.net",
+    "first_name": "Ana",
+    "last_name": "Navarro",
+    "orders_count": 1,
+    "total_spent": "1268602.83",
+    "created_at": "2025-03-15T14:44:55+00:00",
+    "updated_at": "2025-03-15T14:44:55+00:00"
+  },
+  {
+    "id": 920000,
+    "email": "silvahumberto@example.com",
+    "first_name": "Paola",
+    "last_name": "Torres",
+    "orders_count": 2,
+    "total_spent": "704420.22",
+    "created_at": "2025-06-06T14:44:55+00:00",
+    "updated_at": "2025-06-06T14:44:55+00:00"
+  },
+  {
+    "id": 930000,
+    "email": "brodriguez@example.com",
+    "first_name": "Ferney",
+    "last_name": "Cortés",
+    "orders_count": 1,
+    "total_spent": "975035.84",
+    "created_at": "2025-12-26T14:44:55+00:00",
+    "updated_at": "2025-12-26T14:44:55+00:00"
+  },
+  {
+    "id": 940000,
+    "email": "leidy92@example.org",
+    "first_name": "Luis",
+    "last_name": "Loaiza",
+    "orders_count": 2,
+    "total_spent": "1271651.11",
+    "created_at": "2025-02-27T14:44:55+00:00",
+    "updated_at": "2025-02-27T14:44:55+00:00"
+  },
+  {
+    "id": 950000,
+    "email": "roberto56@example.org",
+    "first_name": "Manuel",
+    "last_name": "Ospina",
+    "orders_count": 1,
+    "total_spent": "260250.6",
+    "created_at": "2025-03-02T14:44:55+00:00",
+    "updated_at": "2025-03-02T14:44:55+00:00"
+  },
+  {
+    "id": 960000,
+    "email": "marisolcaicedo@example.org",
+    "first_name": "Bernardo",
+    "last_name": "Benítez",
+    "orders_count": 1,
+    "total_spent": "243633.03",
+    "created_at": "2026-01-10T14:44:55+00:00",
+    "updated_at": "2026-01-10T14:44:55+00:00"
+  },
+  {
+    "id": 970000,
+    "email": "javiermartinez@example.org",
+    "first_name": "Andrés",
+    "last_name": "Ortega",
+    "orders_count": 1,
+    "total_spent": "962894.88",
+    "created_at": "2026-04-17T14:44:55+00:00",
+    "updated_at": "2026-04-17T14:44:55+00:00"
+  },
+  {
+    "id": 980000,
+    "email": "lmorales@example.net",
+    "first_name": "Pedro",
+    "last_name": "Díaz",
+    "orders_count": 1,
+    "total_spent": "772796.35",
+    "created_at": "2025-10-30T14:44:55+00:00",
+    "updated_at": "2025-10-30T14:44:55+00:00"
+  },
+  {
+    "id": 990000,
+    "email": "bravomaria@example.org",
+    "first_name": "Esteban",
+    "last_name": "Caicedo",
+    "orders_count": 2,
+    "total_spent": "2238575.43",
+    "created_at": "2025-03-19T14:44:55+00:00",
+    "updated_at": "2025-03-19T14:44:55+00:00"
+  },
+  {
+    "id": 1000000,
+    "email": "diana92@example.com",
+    "first_name": "Joan",
+    "last_name": "Gómez",
+    "orders_count": 2,
+    "total_spent": "746729.97",
+    "created_at": "2025-01-13T14:44:55+00:00",
+    "updated_at": "2025-01-13T14:44:55+00:00"
+  }
+]

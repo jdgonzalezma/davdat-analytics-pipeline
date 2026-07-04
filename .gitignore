@@ -1,0 +1,23 @@
+# Credenciales y datos sensibles
+.env
+
+# Datos reales del cliente (nunca a GitHub)
+data/raw/
+shopify_pipeline.duckdb
+
+# Entorno virtual (muy pesado, no necesario)
+.venv/
+
+# Archivos de DuckDB temporales
+*.wal
+
+# Logs de dbt
+logs/
+shopify_dbt/target/
+shopify_dbt/.user.yml
+
+# Archivos de sistema
+.DS_Store
+__pycache__/
+*.pyc
+shopify_pipeline_sample.duckdb

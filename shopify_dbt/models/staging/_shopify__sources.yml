@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: shopify_raw
+    schema: raw
+    tables:
+      - name: orders
+      - name: products
+      - name: customers
